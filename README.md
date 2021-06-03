@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mfaiqch
 - 👀 I’m interested in website making
 - 🌱 I’m currently learning HTML and JavaScript
-- 💞️ I’m looking to collaborate on website
+
 - 📫 How to reach me contact me twitter.com/mfaiqch 
 
 <!---
